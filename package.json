@@ -8,5 +8,8 @@
   "keywords": [],
   "author": "Phelyp Munuera",
   "license": "ISC",
-  "description": "API desenvolvida no curso explore Rocketseat"
+  "description": "API desenvolvida no curso explore Rocketseat",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
